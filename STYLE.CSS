@@ -1,0 +1,61 @@
+body{
+    background-image:url(./images/wallpapersden.com_lionel-messi-2019_1366x768.jpg);
+    background-size:cover ;
+}
+#logo{
+    margin-left: 15%;
+}
+
+.navigation{
+    float: right;
+    margin-top: 25px;
+    margin-right: 50px;    
+}
+.navigation a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-decoration: none;
+    border: 2PX solid white;
+    padding:10px ;
+}
+.navigation a:hover{
+    background-color: red;
+    color: black;
+}
+.side{
+    border: 2px solid black;
+    color: white;
+    margin: 100px;
+    width: 50%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float: left;
+}
+.side h3{
+    margin-bottom: 15px;
+}
+.side li{
+    list-style: square;
+    padding: 2px;
+}
+.login{
+    border: 1px solid red;
+    float:right ;
+    background-color: beige;
+    margin-top: 60px;
+    height: 20;
+    margin-right:20px ;
+    padding: 30px;
+}
+#btn{
+    background-color: blue;
+    width: 100%;
+    color: white;
+    border: none ;
+    height: 1.5em;
+}
+.login h2{
+    text-align:center ;
+}
+
+
+
